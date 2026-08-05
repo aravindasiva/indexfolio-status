@@ -10,29 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 276,
-    "timeDay": 341,
-    "timeWeek": 276,
-    "timeMonth": 276,
-    "timeYear": 276,
+    "time": 240,
+    "timeDay": 254,
+    "timeWeek": 240,
+    "timeMonth": 240,
+    "timeYear": 240,
     "dailyMinutesDown": {}
   },
   {
     "name": "API",
-    "url": "https://api.indexfolio.dev/health",
+    "url": "https://api.indexfolio.dev/health-broken",
     "icon": "https://icons.duckduckgo.com/ip3/api.indexfolio.dev.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 313,
-    "timeDay": 331,
-    "timeWeek": 313,
-    "timeMonth": 313,
-    "timeYear": 313,
-    "dailyMinutesDown": {}
+    "time": 243,
+    "timeDay": 218,
+    "timeWeek": 243,
+    "timeMonth": 243,
+    "timeYear": 243,
+    "dailyMinutesDown": {
+      "2026-08-05": 0
+    }
   }
 ]
