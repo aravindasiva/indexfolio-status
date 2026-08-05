@@ -8,7 +8,7 @@ sites:
   - name: Website
     url: https://www.indexfolio.dev
   - name: API
-    url: https://api.indexfolio.dev/health-broken
+    url: https://api.indexfolio.dev/health
 
 # Incident Issues are assigned to you.
 assignees:
