@@ -20,6 +20,8 @@ notifications:
     webhook: '$NOTIFICATION_DISCORD_WEBHOOK_URL'
 
 status-website:
+  # Served at aravindasiva.github.io/indexfolio-status, so assets need this subpath prefix.
+  baseUrl: /indexfolio-status
   logoUrl: https://www.indexfolio.dev/indexfolio.svg
   name: Indexfolio Status
   introTitle: '**Indexfolio** status'
