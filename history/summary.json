@@ -19,22 +19,22 @@
   },
   {
     "name": "API",
-    "url": "https://api.indexfolio.dev/health-broken",
+    "url": "https://api.indexfolio.dev/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.indexfolio.dev.ico",
     "slug": "api",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 243,
-    "timeDay": 218,
-    "timeWeek": 243,
-    "timeMonth": 243,
-    "timeYear": 243,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 241,
+    "timeDay": 222,
+    "timeWeek": 241,
+    "timeMonth": 241,
+    "timeYear": 241,
     "dailyMinutesDown": {
-      "2026-08-05": 0
+      "2026-08-05": 1
     }
   }
 ]
